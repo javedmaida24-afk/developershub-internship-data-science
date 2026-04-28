@@ -32,7 +32,6 @@ This repository includes:
 - Seaborn
 - Scikit-learn
 - Google Colab
-- Jupyter Notebook
 - Git & GitHub
 
 ## 📈 Learning Outcomes
@@ -53,4 +52,4 @@ Computer Science Student | Aspiring Data Scientist
 
 ## ⭐ Note
 
-This repository now finised with new internship tasks and projects.
+This repository now finised with internship tasks and projects.
